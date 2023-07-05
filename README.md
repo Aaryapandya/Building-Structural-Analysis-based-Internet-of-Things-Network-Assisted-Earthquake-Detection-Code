@@ -1,7 +1,7 @@
 # Building-Structural-Analysis-based-Internet-of-Things-Network-Assisted-Earthquake-Detection-Code
 
 The paper is published in the Internet of Things Volume 19, August 2022, by Elsevier.
-https://www.sciencedirect.com/science/article/abs/pii/S2542660522000579?via%3Dihub
+https://www.sciencedirect.com/science/article/abs/pii/S2542660522000579
 
 # Introduction
 Earthquakes are one of the most devastating geohazards in the world. The effects of earthquakes can be annihilating, causing widespread loss of life and property, and indirectly affecting the country's economy. Analysing the patterns of these earthquakes and creating a system to detect them, can help to minimize loss of lives. Existing sensor-based detection works failed to distinguish between earthquakes and other external vibrational noises that may be caused due to construction or other external sources. In the proposed work, to overcome this drawback, the first in-depth structural analysis of shear walls is done to find a structurally suitable location to install the sensor in a building. Further, the MPU6050 sensor is used to reduce the complexity and make the circuit less bulky. This sensor consists of an accelerometer which measures the change in acceleration and a gyroscope which records the shaking pattern of the ground. Since this shaking pattern is exhibited exclusively by an earthquake occurrence, the proposed model distinguishes between the earthquake and other non-hazardous vibrations efficiently. With the considered model for machine learning algorithms, we were able to achieve 99.82% of accuracy, which is a crucial factor for earthquake detection.
