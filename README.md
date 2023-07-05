@@ -1,4 +1,4 @@
-# Building-Structural-Analysis-based-Internet-of-Things-Network-Assisted-Earthquake-Detection-Code
+# Building Structural Analysis based on Internet of Things Network assisted Earthquake Detection
 
 The paper is published in the Internet of Things Volume 19, August 2022, by Elsevier.
 https://www.sciencedirect.com/science/article/abs/pii/S2542660522000579
